@@ -1,0 +1,22 @@
+<h1>Listing muestras</h1>
+
+<table>
+  <tr>
+    <th>Nom</th>
+    <th>Dato</th>
+  </tr>
+
+<% @muestras.each do |muestra| %>
+  <tr>
+    <td><%=h muestra.nom %></td>
+    <td><%=h muestra.dato %></td>
+    <td><%= link_to 'Show', muestra %></td>
+    <td><%= link_to 'Edit', edit_muestra_path(muestra) %></td>
+    <td><%= link_to 'Destroy', muestra, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New muestra', new_muestra_path %>

@@ -1,0 +1,35 @@
+En esta prueba estoy tratando de usar Fancybox para mostrar de mejor maneja mis imagenes, lo que he hecho es copiar el mismo ejemplo que viene en el zip de Fancybox cuando lo descargo pero no me sale cuando corro el la applicacion.
+
+now i try to use Fancybox in order to have a better look showing my pictures.
+when i run the example for the unzip directory of FancyBox, its run ok.
+When i run the same page copy inside my app, it doesn't work.
+i also add another jquery code in order to fix but nothing happened
+
+my example should work on
+
+http://localhost:3000/muestra/otra/1
+
+my fancybox unzip directory is /public/javascripts/jquery.fancybox-1.3.1
+
+my images are  /images/example
+
+my code is /app/views/muestras/otra.html.erb
+
+and also this is my jquery code
+
+jQuery.each(['btn', 'img', 'txt'], function(i, n){
+                jQuery("#sample_profile_" + n).fancybox({
+                    'frameWidth': 600,
+                    'frameHeight': 530,
+                    'overlayShow': true,
+                    'hideOnContentClick': false,
+					          'overlayOpacity': 0.8
+                });
+            });
+
+
+it is from line 85 to 94
+
+and also it doesn't work
+
+i also use the same jquery code from the example from Fancybox from line 13 to line 81

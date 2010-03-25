@@ -1,0 +1,20 @@
+<h1>Editing muestra</h1>
+
+<% form_for(@muestra) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :nom %><br />
+    <%= f.text_field :nom %>
+  </p>
+  <p>
+    <%= f.label :dato %><br />
+    <%= f.text_field :dato %>
+  </p>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @muestra %> |
+<%= link_to 'Back', muestras_path %>
