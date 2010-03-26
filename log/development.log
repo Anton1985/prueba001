@@ -685,3 +685,3046 @@ ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1
   
 
 Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 127.0.0.1 at 2010-03-25 00:03:37) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (1.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 204ms (View: 179, DB: 2) | 200 OK [http://localhost/muestras/otra/1]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 00:03:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 00:03:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (4.4ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 00:03:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (306.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (139.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 127.0.0.1 at 2010-03-25 09:26:58) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (134.9ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 223ms (View: 77, DB: 580) | 200 OK [http://localhost/muestras/otra/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:26:59) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:26:59) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.4ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:26:59) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 127.0.0.1 at 2010-03-25 09:27:28) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (4.4ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 49ms (View: 2, DB: 5) | 200 OK [http://localhost/muestras/otra/1]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:27:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:27:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:27:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 127.0.0.1 at 2010-03-25 09:31:04) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 58ms (View: 40, DB: 1) | 200 OK [http://localhost/muestras/otra/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:31:05) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:31:05) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:31:05) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 127.0.0.1 at 2010-03-25 09:31:58) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (6.2ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 41ms (View: 2, DB: 6) | 200 OK [http://localhost/muestras/otra/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:31:59) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:31:59) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:31:59) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 127.0.0.1 at 2010-03-25 09:44:02) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (32.0ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 85ms (View: 40, DB: 32) | 200 OK [http://localhost/muestras/otra/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:44:02) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:44:03) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:44:03) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 127.0.0.1 at 2010-03-25 09:44:13) [GET]
+  Parameters: {"id"=>"2"}
+  [4;35;1mMuestra Load (10.3ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 19ms (View: 2, DB: 11) | 200 OK [http://localhost/muestras/otra/2]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:44:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.fancybox-1.3.1/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:44:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:44:13) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 127.0.0.1 at 2010-03-25 09:53:20) [GET]
+  Parameters: {"id"=>"2"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 43ms (View: 29, DB: 1) | 200 OK [http://localhost/muestras/otra/2]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:53:21) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:53:21) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-25 09:53:21) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 09:54:18) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.7ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 145ms (View: 136, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 09:54:19) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 09:54:19) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 09:54:19) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 09:54:23) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.8ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 12ms (View: 3, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 09:54:23) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 09:54:23) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (2.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 09:54:23) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 09:54:29) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (1.0ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 13ms (View: 3, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (1.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 09:54:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 09:54:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 09:54:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 10:36:14) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.2ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 12ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:36:14) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:36:14) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:36:14) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:36:14) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:36:14) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:36:14) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:41:56) [GET]
+
+ActionController::RoutingError (No route matches "/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:42:13) [GET]
+
+ActionController::RoutingError (No route matches "/jquery.fancybox.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 10:42:25) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.4ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 12ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:42:25) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:42:25) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:42:25) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:42:25) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:42:25) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 10:42:25) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (14.9ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (1.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:00:17) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (16.9ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 298ms (View: 133, DB: 33) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:00:18) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:00:18) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:00:18) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:10:24) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.5ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 145ms (View: 125, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:10:26) [GET]
+
+ActionController::RoutingError (No route matches "/public/stylesheets/jquery.fancybox.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:10:26) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:10:26) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:10:26) [GET]
+
+ActionController::RoutingError (No route matches "/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:10:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:10:27) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:10:27) [GET]
+
+ActionController::RoutingError (No route matches "/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:14:16) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.4ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 25ms (View: 3, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.9ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:17) [GET]
+
+ActionController::RoutingError (No route matches "/public/stylesheets/jquery.fancybox.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:17) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:17) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:17) [GET]
+
+ActionController::RoutingError (No route matches "/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:17) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:17) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:17) [GET]
+
+ActionController::RoutingError (No route matches "/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:14:18) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.2ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 14ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:18) [GET]
+
+ActionController::RoutingError (No route matches "/public/stylesheets/jquery.fancybox.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (1.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:18) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:18) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:18) [GET]
+
+ActionController::RoutingError (No route matches "/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:18) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:18) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:14:18) [GET]
+
+ActionController::RoutingError (No route matches "/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:16:04) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 18ms (View: 4, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:04) [GET]
+
+ActionController::RoutingError (No route matches "/public/stylesheets/jquery.fancybox.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:04) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:04) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:05) [GET]
+
+ActionController::RoutingError (No route matches "/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:08) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:08) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:08) [GET]
+
+ActionController::RoutingError (No route matches "/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:16:18) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.4ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 18ms (View: 3, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:18) [GET]
+
+ActionController::RoutingError (No route matches "/public/stylesheets/jquery.fancybox.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:18) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.9ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:18) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:18) [GET]
+
+ActionController::RoutingError (No route matches "/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:22) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/fancybox/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:22) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:16:22) [GET]
+
+ActionController::RoutingError (No route matches "/fancybox/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:19:05) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (1.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 42ms (View: 25, DB: 2) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:05) [GET]
+
+ActionController::RoutingError (No route matches "/jquery.fancybox.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:05) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:05) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:05) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra to css (for 192.168.206.1 at 2010-03-25 13:19:06) [GET]
+  Parameters: {"id"=>"style"}
+  [4;35;1mMuestra Load (1.8ms)[0m   [0mSELECT * FROM `muestras` [0m
+
+ActionView::MissingTemplate (Missing template muestras/otra.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:09) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:09) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:09) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra to css (for 192.168.206.1 at 2010-03-25 13:19:09) [GET]
+  Parameters: {"id"=>"style"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+
+ActionView::MissingTemplate (Missing template muestras/otra.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:19:54) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.4ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 122ms (View: 105, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:54) [GET]
+
+ActionController::RoutingError (No route matches "/jquery.fancybox.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:54) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:54) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:54) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:54) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:54) [GET]
+
+ActionController::RoutingError (No route matches "/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:19:54) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:20:50) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.4ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 37ms (View: 23, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:50) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.7ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:51) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:51) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:51) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:51) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:51) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:20:59) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.4ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 18ms (View: 4, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (1.8ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:59) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (1.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:59) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:59) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:59) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:59) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:20:59) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:20:59) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.2ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 17ms (View: 2, DB: 0) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.7ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:21:00) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.2ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 11ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 14ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.2ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 11ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:02) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:02) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:21:02) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:23:17) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 17ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:23:17) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:23:18) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:23:18) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:23:21) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:23:21) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.6ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:23:21) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:35:56) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 35ms (View: 26, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:35:56) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:35:56) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:35:56) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:35:56) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:35:56) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:35:56) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:36:35) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.3ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 20ms (View: 3, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:36:35) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:36:35) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:36:35) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:36:35) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:36:36) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:36:36) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:40:00) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.4ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 38ms (View: 24, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:40:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:40:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:40:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:40:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.mousewheel-3.0.2.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:40:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 13:40:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/fancyboxjquery.fancybox-1.3.1.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:46:34) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.3ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 26ms (View: 16, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:47:28) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 43ms (View: 29, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#index (for 192.168.206.1 at 2010-03-25 13:47:38) [GET]
+  [4;35;1mMuestra Load (0.2ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/index
+Completed in 38ms (View: 29, DB: 1) | 200 OK [http://192.168.206.176/muestras/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#show (for 192.168.206.1 at 2010-03-25 13:47:43) [GET]
+  Parameters: {"id"=>"otra"}
+  [4;36;1mMuestra Columns (56.3ms)[0m   [0;1mSHOW FIELDS FROM `muestras`[0m
+  [4;35;1mMuestra Load (38.3ms)[0m   [0mSELECT * FROM `muestras` WHERE (`muestras`.`id` = 0) [0m
+
+ActiveRecord::RecordNotFound (Couldn't find Muestra with ID=otra):
+  app/controllers/muestras_controller.rb:24:in `show'
+
+Rendered rescues/_trace (68.5ms)
+Rendered rescues/_request_and_response (3.0ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#show (for 192.168.206.1 at 2010-03-25 13:47:47) [GET]
+  Parameters: {"id"=>"otra-1"}
+  [4;36;1mMuestra Columns (1.5ms)[0m   [0;1mSHOW FIELDS FROM `muestras`[0m
+  [4;35;1mMuestra Load (0.2ms)[0m   [0mSELECT * FROM `muestras` WHERE (`muestras`.`id` = 0) [0m
+
+ActiveRecord::RecordNotFound (Couldn't find Muestra with ID=otra-1):
+  app/controllers/muestras_controller.rb:24:in `show'
+
+Rendered rescues/_trace (138.7ms)
+Rendered rescues/_request_and_response (0.6ms)
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 13:47:55) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.2ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 12ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:12:44) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.4ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 34ms (View: 26, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:37:29) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 43ms (View: 34, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (1.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (2.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_close.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_loading.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_n.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_ne.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_e.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_se.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_s.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_sw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_w.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_nw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_left.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:30) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_right.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:36) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:51) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:37:57) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.4ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:38:01) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:38:05) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:38:08) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:38:09) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:38:20) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.6ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 11ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:38:44) [GET]
+
+ActionController::RoutingError (No route matches "/muestra/otra/1" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:38:48) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 19ms (View: 3, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.5ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:39:02) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:39:05) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:39:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:43:01) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.2ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 23ms (View: 13, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:43:27) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 19ms (View: 3, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:27) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_close.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:27) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_loading.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:27) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_n.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:27) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_ne.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:28) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_e.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:28) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_se.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:28) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_s.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:28) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_sw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:28) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_w.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:28) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_nw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:28) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_left.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:28) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_right.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:43:31) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.3ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 19ms (View: 4, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:31) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_close.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:31) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_loading.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:31) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_n.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:31) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_ne.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:31) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_e.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:31) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_se.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:31) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_s.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:32) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_sw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:32) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_w.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:32) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_nw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:32) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_left.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:32) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_right.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:43:32) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 11ms (View: 1, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:43:32) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.2ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 12ms (View: 3, DB: 0) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:43:32) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.2ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 11ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:43:32) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.4ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 11ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:43:32) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.3ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 12ms (View: 1, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_close.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_loading.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_n.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_ne.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_e.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_se.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_s.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.4ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_sw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_w.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_nw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_left.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_right.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (1.8ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (2.2ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 10ms (View: 2, DB: 4) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-25 14:43:33) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (0.4ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 11ms (View: 2, DB: 1) | 200 OK [http://192.168.206.176/muestras/otra/1]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_close.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_loading.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_n.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_ne.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_e.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.5ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_se.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_s.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_sw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_w.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_nw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.3ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_left.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:34) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_right.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:36) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:42) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_main.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:42) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_left.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-25 14:43:42) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_right.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-26 01:47:06) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mMuestra Load (72.0ms)[0m   [0;1mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 154ms (View: 72, DB: 73) | 200 OK [http://192.168.206.177/muestras/otra/1]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_close.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_loading.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_n.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_ne.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_e.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_se.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_s.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_sw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_w.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_shadow_nw.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_left.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.1ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:07) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_nav_right.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:47:12) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;35;1mSQL (0.2ms)[0m   [0mSET NAMES 'utf8'[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MuestrasController#otra (for 192.168.206.1 at 2010-03-26 01:47:35) [GET]
+  Parameters: {"id"=>"1"}
+  [4;35;1mMuestra Load (0.3ms)[0m   [0mSELECT * FROM `muestras` [0m
+Rendering template within layouts/muestras
+Rendering muestras/otra
+Completed in 21ms (View: 3, DB: 1) | 200 OK [http://192.168.206.177/muestras/otra/1]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 192.168.206.1 at 2010-03-26 01:48:03) [GET]
+
+ActionController::RoutingError (No route matches "/muestras/otra/fancybox/fancy_title_over.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
